@@ -1,5 +1,4 @@
-<img src="https://i.ibb.co.com/nqYVggpJ/giphy.gif">
-
+<img src="https://i.ibb.co.com/nqYVggpJ/giphy.gif">;
 
 <h1 align="center">Hi 👋, I'm Husam Aldin Adyan</h1>
 <h3 align="center">👨‍💻 Backend Developer Hello there! I'm a backend-focused web developer passionate about building clean, efficient, and scalable digital solutions. ⚙️ I work with HTML, CSS, JavaScript, and Node.js, and I'm exploring tools like MongoDB and Firebase. 🧠 I love diving into the logic behind the scenes—creating APIs, handling data, and making everything run like clockwork. 💡 Problem-solving and performance optimization are what drive me, and I'm always eager to learn and grow with the ever-evolving web landscape. 🌍 I'm based in Bangladesh 📧 You can contact me at husam.bisc2021@gmail.com</h3>
