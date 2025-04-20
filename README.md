@@ -2,14 +2,33 @@
 
 
 <h1 align="center">Hi 👋, I'm Husam Aldin Adyan</h1>
-<h3 align="center">👨‍💻 Backend Developer <br>
-Hello there! I'm a backend-focused web developer passionate about building clean, efficient, and scalable digital solutions. <br><br>
-⚙️ I work with HTML, CSS, JavaScript, and Node.js, and I'm exploring tools like MongoDB and Firebase. <br><br>
-🧠 I love diving into the logic behind the scenes—creating APIs, handling data, and making everything run like clockwork. <br><br>
-💡 Problem-solving and performance optimization are what drive me, and I'm always eager to learn and grow with the ever-evolving web landscape. <br><br>
-🌍 I'm based in Bangladesh <br>
-📧 You can contact me at husam.bisc2021@gmail.com
-</h3>
+<h2>✨ About Me:</h2>
+<ul>
+  <li>🛠️ I’m currently working on <a href="https://savvyfinanceguru.com/" target="_blank">https://savvyfinanceguru.com/</a></li>
+  <li>🏆 I’m currently learning HTML/CSS/JS/React/Node.js/MongoDB/Firebase</li>
+</ul>
+<blockquote>
+  <a href="https://www.favoritefurry.com/" target="_blank">https://www.favoritefurry.com/</a>
+</blockquote>
+
+<hr>
+
+<h2>👨‍💻 Backend Developer</h2>
+
+<p>
+Hello there! I'm a backend-focused web developer passionate about building clean, efficient, and scalable digital solutions.
+I work with HTML, CSS, JavaScript, and Node.js, and I'm currently exploring MongoDB and Firebase.<br><br>
+
+I enjoy diving into the logic behind the scenes—creating APIs, handling data, and making everything run smoothly.<br><br>
+
+Problem-solving and performance optimization drive me. I'm always learning and evolving with the fast-paced web development world.
+</p>
+
+<ul>
+  <li>🟢 I'm based in <strong>Bangladesh</strong></li>
+  <li>🌐 See my portfolio at <a href="https://yourportfolio.com" target="_blank">https://yourportfolio.com</a></li>
+  <li>📧 You can contact me at <a href="mailto:husam.bisc2021@gmail.com">husam.bisc2021@gmail.com</a></li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adyan2010&label=Profile%20views&color=0e75b6&style=flat" alt="adyan2010" /> </p>
 
