@@ -1,4 +1,4 @@
-<img src="https://ibb.co.com/HLbMFFZ8" alt="Funny Cat GIF" width="300"/>
+<img src="[https://ibb.co.com/HLbMFFZ8](https://i.ibb.co.com/nqYVggpJ/giphy.gif)" alt="Funny Cat GIF" width="300"/>
 
 
 <h1 align="center">Hi 👋, I'm Husam Aldin Adyan</h1>
