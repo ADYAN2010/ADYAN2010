@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/nqYVggpJ/giphy.giff" alt="" />;
+<img src="giphy.gif"/>;
 
 
 <h1 align="center">Hi 👋, I'm Husam Aldin Adyan</h1>
