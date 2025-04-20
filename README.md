@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtwZzVkNHQ2ZTVsZW1nYWRybThyamZzZXA0YnFzYWcwcmZucG14dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ljLfNuWoyBtsX6sYsF/giphy.gif" alt="Funny Cat GIF">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtwZzVkNHQ2ZTVsZW1nYWRybThyamZzZXA0YnFzYWcwcmZucG14dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ljLfNuWoyBtsX6sYsF/giphy.gif" alt="Funny Cat GIF" width="300"/>
 
 
 <h1 align="center">Hi 👋, I'm Husam Aldin Adyan</h1>
