@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Husam Aldin Adyan</h1>
 <h2>✨ About Me:</h2>
 <ul>
-  <li>🛠️ I’m currently working on <a href="https://savvyfinanceguru.com/" target="_blank">https://savvyfinanceguru.com/</a></li>
+  <li>🛠️ I’m currently working on Website Development/</a></li>
   <li>🏆 I’m currently learning HTML/CSS/JS/React/Node.js/MongoDB/Firebase</li>
 </ul>
 <blockquote>
@@ -25,7 +25,6 @@ Problem-solving and performance optimization drive me. I'm always learning and e
 
 <ul>
   <li>🟢 I'm based in <strong>Bangladesh</strong></li>
-  <li>🌐 See my portfolio at <a href="https://yourportfolio.com" target="_blank">https://yourportfolio.com</a></li>
   <li>📧 You can contact me at <a href="mailto:husam.bisc2021@gmail.com">husam.bisc2021@gmail.com</a></li>
 </ul>
 
