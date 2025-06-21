@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2>👨‍💻 Backend Developer</h2>
+<h2>👨‍💻 Frontend Developer</h2>
 
 <p>
 Hello there! I'm a backend-focused web developer passionate about building clean, efficient, and scalable digital solutions.
