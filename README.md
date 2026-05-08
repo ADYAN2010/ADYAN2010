@@ -1,50 +1,55 @@
-<img src="https://i.ibb.co.com/v63v3zmd/giphy-ezgif-com-video-to-gif-converter.gif" alt="" />;
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Husam Aldin Adyan</h1>
-<h2>✨ About Me:</h2>
-<ul>
-  <li>🛠️ I’m currently working on Website Development/</a></li>
-  <li>🏆 I’m currently learning HTML/CSS/JS/React/Node.js/MongoDB/Firebase</li>
-</ul>
-<blockquote>
-  <a href="https://www.favoritefurry.com/" target="_blank">https://www.favoritefurry.com/</a>
-</blockquote>
+<img src="https://i.ibb.co.com/v63v3zmd/giphy-ezgif-com-video-to-gif-converter.gif" alt="Adyan coding banner" width="100%" />
 
-<hr>
+<br/>
 
-<h2>👨‍💻 Frontend Developer</h2>
+<h1>Hi 👋, I'm Husam Aldin Adyan</h1>
+
+<h3>Development Director & Lead Developer at Aperio Studios</h3>
 
 <p>
-Hello there! I'm a backend-focused web developer passionate about building clean, efficient, and scalable digital solutions.
-I work with HTML, CSS, JavaScript, and Node.js, and I'm currently exploring MongoDB and Firebase.<br><br>
-
-I enjoy diving into the logic behind the scenes—creating APIs, handling data, and making everything run smoothly.<br><br>
-
-Problem-solving and performance optimization drive me. I'm always learning and evolving with the fast-paced web development world.
+  I build <strong>websites, dashboards, CRM systems, AI workflows, and automation tools</strong>
+  that are designed to ship in the real world.
 </p>
 
-<ul>
-  <li>🟢 I'm based in <strong>Bangladesh</strong></li>
-  <li>📧 You can contact me at <a href="mailto:husam.bisc2021@gmail.com">husam.bisc2021@gmail.com</a></li>
-</ul>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adyan2010&label=Profile%20views&color=0e75b6&style=flat" alt="adyan2010" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adyan2010" alt="adyan2010" /></a> </p>
-
-- 📫 How to reach me **husam.bisc2021@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/chill_its-ady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chill_its-ady" height="30" width="40" /></a>
-<a href="https://discord.gg/gu3hDFaYUr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gu3hDFaYUr" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=adyan2010&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p>
+  <a href="mailto:husam.bisc2021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/chill_its-ady" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/gu3hDFaYUr" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adyan2010&show_icons=true&locale=en&layout=compact" alt="adyan2010" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adyan2010&show_icons=true&locale=en" alt="adyan2010" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adyan2010&" alt="adyan2010" /></p>
+## 🧠 About Me
+
+```js
+const adyan = {
+  name: "Husam Aldin Adyan",
+  location: "Bangladesh",
+  role: "Development Director & Lead Developer",
+  studio: "Aperio Studios",
+  focus: [
+    "Vite + React Projects",
+    "Premium Websites",
+    "Admin Dashboards",
+    "CRM Systems",
+    "AI Workflows",
+    "Automation Tools",
+    "Production Deployment"
+  ],
+  mission: "Designing systems. Building intelligence.",
+  mindset: "Build real products. Improve fast. Ship with quality."
+};
